@@ -1,6 +1,17 @@
 # Repo Template
 
-This repository is a very basic template for a new repository.
+This repository is a very basic template for a new repository hosted on GitHub. It
+contains the following boilerplate:
+
+- CHANGELOG.md
+- LICENSE
+- README.md
+- GitHub CODEOWNERS
+- Code of Conduct
+- Contributing Guide
+- Security Guide
+- Empty dirs for GitHub Issue and PR templates
+- Empty dir for GitHub Actions workflows
 
 ## Usage
 
@@ -71,5 +82,7 @@ in-place file modifications.
 [ISSUE_TEMPLATE]: .github/ISSUE_TEMPLATE
 [Pull Request Templates]: https://docs.github.com/en/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository
 [PULL_REQUEST_TEMPLATE]: .github/PULL_REQUEST_TEMPLATE
+[GitHub Actions]: https://docs.github.com/en/actions
+[workflows]: .github/workflows
 [gitignore]: .gitignore
 [GNU Sed]: https://formulae.brew.sh/formula/gnu-sed
