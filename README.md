@@ -12,6 +12,7 @@ contains the following boilerplate:
 - Security Guide
 - Empty dirs for GitHub Issue and PR templates
 - Empty dir for GitHub Actions workflows
+- Large .gitignore file
 
 ## Usage
 
